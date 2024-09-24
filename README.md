@@ -140,3 +140,6 @@ bash backup_infra.sh
 
 ---
 
+## 백업 완료👍
+![image](https://github.com/user-attachments/assets/2322f412-accd-4531-9a4b-9a28654488b2)
+
